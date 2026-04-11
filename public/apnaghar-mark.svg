@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="256" cy="256" r="224" fill="#0A1320"/>
+  <circle cx="256" cy="256" r="224" stroke="url(#ring)" stroke-width="8"/>
+  <path d="M170 276L256 198L342 276" stroke="url(#gold)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M192 264V336C192 344.837 199.163 352 208 352H304C312.837 352 320 344.837 320 336V264" stroke="url(#gold)" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M240 352V300C240 291.163 247.163 284 256 284C264.837 284 272 291.163 272 300V352" stroke="url(#gold)" stroke-width="16" stroke-linejoin="round"/>
+  <defs>
+    <linearGradient id="ring" x1="92" y1="74" x2="409" y2="433" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7DEAB"/>
+      <stop offset="0.5" stop-color="#D09549"/>
+      <stop offset="1" stop-color="#F4E6C8"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="188" y1="206" x2="319" y2="351" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF0CF"/>
+      <stop offset="0.5" stop-color="#D89B4D"/>
+      <stop offset="1" stop-color="#9D622B"/>
+    </linearGradient>
+  </defs>
+</svg>
